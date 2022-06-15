@@ -1,5 +1,5 @@
 import json
-from statistics import mode
+
 
 filename = "c:/Users/admin/python/learn-py/json/players.txt"
 my_file = open(filename,mode='w',encoding='utf-8')
